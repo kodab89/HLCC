@@ -1,0 +1,10 @@
+HLCC calc methodology
+
+1. Set convertion options:
+  a. Tariff
+  b. Input: consumption curve year
+  c. Output: consumption curve year
+  d. Output: set expected consumption (yearly, monthly, monthly by zones) - might serve as additional input
+2. Adjust input based on options
+3. Perform convertion:
+  a. 
